@@ -25,3 +25,11 @@ Here are some ideas to get you started:
 ## Currently learning
 - Cybersec
 - Software Dev
+
+## Certification
+
+<img src="gfact-cert.png" width=13% height=13%>
+
+
+
+
