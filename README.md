@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! こんにちは！
 
 <!--
 **jonuzo/jonuzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently working on
+
+| Project     | Description |
+| ----------- | ----------- |
+| [REDACTED]  | [REDACTED]  |
+| [REDACTED]  | [REDACTED]  |
+
+## Currently learning
+- Cybersec
+- Software Dev
