@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | [REDACTED]  | [REDACTED]  |
 
 ## Currently learning
-- Cybersec
+- Cyber Sec
 - Software Dev
 
 ## Certification
