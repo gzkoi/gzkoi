@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 | [REDACTED]  | [REDACTED]  |
 
 ## Currently learning
-- Cyber Sec
-- Software Dev
+- Sec Research
+- Transformative Game Dev 
+- 
 
-## Certification
 
-<img src="gfact-cert.png" width=13% height=13%>
 
 
 
