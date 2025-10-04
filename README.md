@@ -1,4 +1,4 @@
-## (┛◉Д◉)┛彡┻━┻
+### ....
 
 <!--
 **jonuzo/jonuzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Currently working on
+#### Active Projects
 
 | Project     | Description |
 | ----------- | ----------- |
 | [REDACTED]  | [REDACTED]  |
 | [REDACTED]  | [REDACTED]  |
 
-## Currently learning
+#### Currently learning
 - Sec R&D
 - Transformative Game Dev 
 - ことば
