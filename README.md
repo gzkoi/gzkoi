@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Project     | Description |
 | ----------- | ----------- |
-| [REDACTED]  | [REDACTED]  |
+| Build an OS from sratch  | In-Progress  |
 | [REDACTED]  | [REDACTED]  |
 
 #### Currently learning
