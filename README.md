@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 | Project     | Status |
 | ----------- | ----------- |
 | Build a linux distro from scratch | In-Progress |
-| [REDACTED]  | [REDACTED]  |
+| Personal IDS  | Not Started |
 
 #### Currently learning
 - Transformative Game Dev 
