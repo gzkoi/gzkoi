@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 | Project     | Status |
 | ----------- | ----------- |
-| Build an OS from scratch | In-Progress  |
+| Build a linux distro from scratch | In-Progress |
 | [REDACTED]  | [REDACTED]  |
 
 #### Currently learning
