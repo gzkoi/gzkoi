@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Active Projects
 
-| Project     | Description |
+| Project     | Status |
 | ----------- | ----------- |
 | Build an OS from sratch  | In-Progress  |
 | [REDACTED]  | [REDACTED]  |
