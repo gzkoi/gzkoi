@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 | [REDACTED]  | [REDACTED]  |
 
 #### Currently learning
-- Sec R&D
 - Transformative Game Dev 
 - ことば
+- Rev
 
 
 
