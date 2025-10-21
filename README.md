@@ -1,6 +1,6 @@
 <h1>  (｡´∀｀)ﾉ  </h1>
 
-<p> gzko-here. </p>
+<p> gzkoi-here. </p>
 <p> cyber.security-student.based.in.the-NA.for.now </p>
 <p> -additionally-doing.research.and-building-interesting-solutions-to-real.world-headaches. </p>
 
