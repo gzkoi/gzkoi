@@ -9,8 +9,8 @@
 
 <h3>  ┻━┻︵ \(°□°)/ ︵ ┻━┻  </h3>
 <ul>
-  <li>  Currently learning RE and Web Exploitation...学到怀疑人生。 </li>
-  <li>  Figuring out Assembly and how to disassemble...看了三遍，还是看不懂。 </li>
+  <li>  Currently learning RE and <br> Web Exploitation...学到怀疑人生。 </li>
+  <li>  Figuring out Assembly and <br> how to disassemble...看了三遍，还是看不懂。 </li>
   <li>  Transformative Game Dev...Coming Soon!!  </li>
 </ul>
 
