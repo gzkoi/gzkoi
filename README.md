@@ -1,7 +1,7 @@
 <h1>  (｡´∀｀)ﾉ  </h1>
 
 <h3>  whoami  </h3>
-<p> gzkoi-here. </p>
+<p> gzko-here. </p>
 <p> cyber.security-student.based.in.the-NA.for.now </p>
 <p> -additionally-doing.research.and-building-interesting-solutions-to-real.world-headaches. </p>
 
