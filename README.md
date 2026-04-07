@@ -35,14 +35,12 @@
 <img alt="Kali" src="https://img.shields.io/badge/-Kali%20Linux-1a1a1a?style=flat-square&logo=Kali%20Linux&logoColor=green" />
 <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp%20Suite-1a1a1a?style=flat-square&logo=Burp%20Suite&logoColor=green" />
 <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1a1a1a?style=flat-square&logo=Wireshark&logoColor=green" />
-
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-1a1a1a?style=flat-square&logo=docker&logoColor=green" /> 
 <img alt="Python" src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=green" /> 
 <img alt="Git" src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=green" /> 
 <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=green" /> 
 <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-1a1a1a?style=flat-square&logo=Node.js&logoColor=green" /> 
 <img alt="Java" src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=green" /> 
-<img alt="C" src="https://img.shields.io/badge/-language-1a1a1a?style=flat-square&logo=c&logoColor=green" /> 
 
  
 </p>
