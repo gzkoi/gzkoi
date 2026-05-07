@@ -10,8 +10,8 @@
 
 <h3>  ┻━┻︵ \(°□°)/ ︵ ┻━┻  </h3>
 <ul>
-  <li>  Exploring RE and <br> Web Exploitation...学到怀疑人生。 </li>
-  <li>  Figuring out Assembly and <br> how to disassemble...看了三遍，还是看不懂。 </li>
+  <li>  Exploring RE & <br> Web Exploitation...学到怀疑人生。 </li>
+  <li>  Figuring out Assembly & <br> how to disassemble...看了三遍，还是看不懂。 </li>
   <li>  Transformative Game Dev.  </li>
 </ul>
 
