@@ -1,18 +1,18 @@
 <h1>  (｡´∀｀)ﾉ  </h1>
 
 <h3>  whoami  </h3>
-<p> gzko-here. </p>
-<p> cyber.security-student.based.in.the-NA.for.now </p>
-<p> -additionally-doing.research.and-building-interesting-solutions-to-real.world-headaches. </p>
+<p> gzko. </p>
+<p> cyber.security-student.based.in.-NA </p>
+<p> security.researcher. </p>
 
 <img align="right" width="300" style="width: 600px;" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UzbmlxeXoxNHdkZGF4MjE2N245aXZ4OWNranM3eTd4dmw2amFxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2BAs9N0IItUKA0/giphy.gif"/>
 
 
 <h3>  ┻━┻︵ \(°□°)/ ︵ ┻━┻  </h3>
 <ul>
-  <li>  Currently learning RE and <br> Web Exploitation...学到怀疑人生。 </li>
+  <li>  Exploring RE and <br> Web Exploitation...学到怀疑人生。 </li>
   <li>  Figuring out Assembly and <br> how to disassemble...看了三遍，还是看不懂。 </li>
-  <li>  Transformative Game Dev...Coming Soon!!  </li>
+  <li>  Transformative Game Dev.  </li>
 </ul>
 
 
